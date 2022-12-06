@@ -1,0 +1,102 @@
+#menues {
+    margin: 120px 10px;
+    
+}
+
+#menues p {
+    width: 500px;
+    color: #405357;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+#menu1 {
+    margin: 10px;
+}
+.menustyle01 {
+    background: url(img/img03.webp);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    float: left;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.menustyle02 {
+    background: url(img/img02.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    float: left;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.menustyle03 {
+    background: url(img/img05.webp);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    float: left;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.menustyle04 {
+    background: url(img/img08.webp);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    float: left;
+    cursor: pointer;
+}
+.sul01 {
+    margin-top: 0px;
+    width: 200px;
+    height: 100px;
+}
+#sul01 h3 {
+    margin: 10px 0;
+}
+.sul02 {
+    margin-top: 10px;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+}
+#sul02 h3 {
+    margin: 10px 0;
+}
+.menustyle05 {
+    background: url(img/img10.webp);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    float: left;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.menustyle06 {
+    background: url(img/img14.webp);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    float: left;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.menustyle07 {
+    background: url(img/img07.webp);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    float: left;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.menustyle08 {
+    background: url(img/img12.webp);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    float: left;
+    cursor: pointer;
+}

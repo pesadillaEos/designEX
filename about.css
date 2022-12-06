@@ -1,0 +1,63 @@
+#about1 {
+    width: inherit;
+    height: 340px;
+    position: absolute;
+    top: 120px;
+}
+#about1 p {
+    width: 500px;
+    color: #405357;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+#aboutt1 {
+    width: 450px;
+    margin: 30px 10px;
+    font-size: 16px;
+}
+#aboutt2 {
+    width: 400px;
+    height: 270px;
+    background: url(img/img04.jpg);
+    background-size: cover;
+    position: absolute;
+    top: 100px;
+    left: 480px;
+}
+#about2 {
+    position: absolute;
+    top: 560px;
+    margin: 0 10px;
+    width: 400px;
+}
+.pp01 {
+    width: 500px;
+    color: #405357;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+#about2 p {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+#tea4 {
+    position: absolute;
+    width: 400px;
+    left: 470px;
+    top: 67px;
+}
+#tea5 {
+    position: absolute;
+    width: 400px;
+    left: 470px;
+    top: 280px; 
+}
+#tea6 {
+    position: absolute;
+    width: 400px;
+    left: 470px;
+    top: 500px;
+}
