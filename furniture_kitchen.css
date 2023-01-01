@@ -3,6 +3,8 @@
     margin: 0;
     padding: 0;
     list-style: none;
+    position: relative;
+    text-align: center;
 }
 a {
     text-decoration: none;
@@ -19,7 +21,6 @@ a {
 }
 body {
     background: rgb(203, 210, 212);
-    height: 100%;
 }
 
 /* 상단공간 */
@@ -55,11 +56,10 @@ nav li {
 /* 하단 공간 */
 footer {
     background: #607d82;
+    height: 200px;
     clear: both;
     position: relative;
     color: white;
-    height: 200px;
-    top: 350px;
 }
 footer li:nth-child(1) {
     width: 160px;
